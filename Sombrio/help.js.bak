@@ -4,10 +4,9 @@ const help = () => {
 ║
 ╠OLA 
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ Black Bot
 ╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ Dono : Fernando
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -298,16 +297,9 @@ const help = () => {
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
-║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
-║
-║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+║ *NOME: Black Bot*
+║ *WPP: wa.me/+554599271123*
+╚═〘 Black Bot〙`
 }
 
 exports.help = help
